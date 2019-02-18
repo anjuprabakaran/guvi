@@ -1,0 +1,5 @@
+n=int(input(" enterthe albhabut")
+if(n):
+ print(" is an albhabut")
+else:
+ print("is not an albhabut")
